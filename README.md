@@ -7,10 +7,18 @@ In the sleeping tavern, a boil is underway. A map found gives the exact location
 ## Victory Condition
 Defeat all enemies
 
-## Call for donations
+## Testing and Modifications
 
-This Heroes 3 scenario that I am proud to offer you is the result of work. It's free and open source. If you like the result, I will be grateful if you contribute. To donate, simply send me solana to the wallet below (even 0.01 sol). THANKS.
+The map was thoroughly tested and adjusted based on feedback to ensure a balanced and enjoyable experience.
+
+![](picture/00beatrice_equipment.jpg)
+
+## Optional Support
+
+Creating this Heroes 3 scenario has been a labor of love, and I'm glad to share it with you for free. If you enjoy it and would like to support future projects, any donations are greatly appreciated but not required.
+
+To donate, simply send solana to the wallet below (even 0.01 sol). Thank you!
 
 AYJ7Pc4zwfFheqYwyNik3n3qvQE2it9U6x9XireJcQ8c
 
-![](picture/00beatrice_equipment.jpg)
+**Your feedback is invaluable! Please share your thoughts and suggestions to help improve this map.**
