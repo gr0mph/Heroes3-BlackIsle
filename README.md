@@ -1,24 +1,48 @@
-# Heroes3-BlackIsle
-An epic Heroes3 scenario with the Factory, Cove or Dungeon faction.
+# Heroes3: Black Isle - Horn of the Abyss
 
-## Scenario Description
-In the sleeping tavern, a boil is underway. A map found gives the exact location of a fortress built on an island, abandoned for ages. Four scouts left but no return since. Hurry, the fortress houses immeasurable treasures, and perhaps... even greater danger.
+Welcome to the official repository for the **Heroes3: Black Isle** scenario, designed for the **Horn of the Abyss** expansion. This map brings new adventures and challenges with the addition of the Factory faction.
 
-## Victory Condition
-Defeat all enemies
+## Overview
 
-## Testing and Modifications
+Heroes of Might and Magic III (Heroes3) is a beloved strategy game, and the Horn of the Abyss (HotA) expansion has revitalized the community with new content. Black Isle is a custom map designed to leverage these new features, providing an immersive and challenging experience.
 
-The map was thoroughly tested and adjusted based on feedback to ensure a balanced and enjoyable experience.
+## Features
+
+- **Three Playable Factions**: Including the new Factory faction.
+- **Large Map Size**: Size L with basement, supporting up to 8 players (3 human and 5 computer).
+- **Unique Quests and Challenges**: Tailored quests for each faction.
+
+## Installation
+
+To play the Heroes3: Black Isle map, follow these steps:
+1. Download the map from [GitHub](https://github.com/gr0mph/Heroes3-BlackIsle).
+2. Locate the file `[HotA] Black Isle.h3m` in the repository.
+3. Download the file (click on "Download raw file").
+4. Place the file into your Heroes3 maps folder.
+
+## Updates
+
+We continually update the map based on community feedback to ensure the best gameplay experience. Recent updates include:
+- Added sanctuary.
+- Reduced creature spawn rates for opponents.
+- Enhanced quest rewards.
+
+## Contributing
+
+Your contributions are welcome! Whether it's through feedback, suggestions, or code, we appreciate any help in making Heroes3: Black Isle even better.
+
+## Support
+
+Creating this map is a labor of love. If you enjoy playing it and would like to support future projects, donations are appreciated but not required.
+
+To donate, simply send Solana to the wallet below (even 0.01 Sol helps). Thank you!
+
+Wallet: **AYJ7Pc4zwfFheqYwyNik3n3qvQE2it9U6x9XireJcQ8c**
+
+## Contact
+
+For any questions, suggestions, or feedback, feel free to open an issue on GitHub or contact us directly.
 
 ![](picture/00beatrice_equipment.jpg)
 
-## Optional Support
-
-Creating this Heroes 3 scenario has been a labor of love, and I'm glad to share it with you for free. If you enjoy it and would like to support future projects, any donations are greatly appreciated but not required.
-
-To donate, simply send solana to the wallet below (even 0.01 sol). Thank you!
-
-AYJ7Pc4zwfFheqYwyNik3n3qvQE2it9U6x9XireJcQ8c
-
-**Your feedback is invaluable! Please share your thoughts and suggestions to help improve this map.**
+Enjoy your adventures in **Heroes3: Black Isle - Horn of the Abyss**!
