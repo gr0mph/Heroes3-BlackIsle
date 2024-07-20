@@ -2,4 +2,4 @@
 
 ## Overview
 
-![](picture/maps4heroes-blackisle.jpg)
+![](../picture/maps4heroes-blackisle.jpg)
