@@ -23,7 +23,10 @@ To play the Heroes3: Black Isle map, follow these steps:
 ## Updates
 
 We continually update the map based on community feedback to ensure the best gameplay experience. Recent updates include:
-- Added sanctuary.
+- Remove sanctuary
+- Add dimension door spell
+- Add finding the grail
+- Add Dracon and Gelu
 - Reduced creature spawn rates for opponents.
 - Enhanced quest rewards.
 
