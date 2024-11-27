@@ -27,8 +27,10 @@ We continually update the map based on community feedback to ensure the best gam
 - Add dimension door spell
 - Add finding the grail
 - Add Dracon and Gelu
-- Reduced creature spawn rates for opponents.
 - Enhanced quest rewards.
+- Add two level 7 dwellings like The Devil is in the Detail
+- Add Underground Greek that reward Castle and Inferno town
+- Add Wanted Dead or Alive reward primary skill and new peasant transformation
 
 ## Contributing
 
